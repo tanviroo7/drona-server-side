@@ -5,7 +5,7 @@ Live Site: https://drona-by-asfia.netlify.app
 
 ## About The Website
 * User can login using google or register with email then sign in .
-* User will be able to order products availabl on the Website
+* User will be able to order products available on the Website
 * User can check given orders from Dashboard Page
 * User can cancel any order from my orders on Dashboard
 * User can provide review from dashboard it will appear on home Page
